@@ -30,8 +30,17 @@
    padding: 20px;
  }
 
- .left h4 {
+ .title1 {
    text-align: center;
+   font-weight: 700;
+ }
+
+ .title2{
+  font-weight: 700
+ }
+
+ .left-text span{
+  font-weight: 800;
  }
 
  .circle {
@@ -84,6 +93,7 @@
 
  .score-reaction {
   background-color: hsl(0, 100%, 96%);
+  color: hsl(0, 100%, 67%)
  }
 
  .score-memory {
